@@ -5,13 +5,16 @@ I'm Alex Seya, a passionate technology enthusiast with an engineering background
 ## About Me
 
 - 🎓 **Background**: Bachelor and Honours Degrees in Metallurgical Engineering (Minerals and stuff...)
+  
 - 🌍 **Languages**: English, French, Swahili
-- 💻 **Currently Learning**: Apache Databricks
+  
 - 🔭 **Areas of Intrest**: Data Engineering, Data Analytics, Data Science, Machine Learning, and AI Engineering
+  
 - 📚 **Courses**: Completed MIT's 6.100.1L (Introduction to CS and Programming using Python) and 6.0002 (Introduction to Computational Thinking and Data Science)
+  
 - 🚀 **Ultimate Goal**: Become an AI Engineer and combine metallurgy with artificial intelligence to drive innovation and transform the future of mineral processing and extractive metallurgy.
 
-## Programming Languages
+## Programming Languages and skills
 
 - **Programming Languages**: Python, SQL Server
 - **Focus Areas**: Data Engineering, Data Analytics, Data Science, Machine Learning
@@ -32,5 +35,4 @@ I'd love to connect with you! Feel free to reach out:
 - 💬 **Open to**: Collaborations, mentorship, learning opportunities, work, and new challenges
 
 ---
-
-*Thanks for visiting my profile! Explore my repositories, check out my projects, and don't hesitate to reach out if you'd like to collaborate or discuss opportunities.
+Thanks for visiting my profile! Explore my repositories, check out my projects, and don't hesitate to reach out if you'd like to collaborate or discuss opportunities.
