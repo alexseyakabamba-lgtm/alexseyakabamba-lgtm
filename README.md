@@ -11,7 +11,7 @@ I'm Alex Seya, a passionate technology enthusiast with an engineering background
 - 📚 **Courses**: Completed MIT's 6.100.1L (Introduction to CS and Programming using Python) and 6.0002 (Introduction to Computational Thinking and Data Science)
 - 🚀 **Ultimate Goal**: Become an AI Engineer and combine metallurgy with artificial intelligence to drive innovation and transform the future of mineral processing and extractive metallurgy.
 
-## Technical Skills
+## Programming Languages
 
 - **Programming Languages**: Python, SQL Server
 - **Focus Areas**: Data Engineering, Data Analytics, Data Science, Machine Learning
